@@ -4,6 +4,8 @@
 
 The Weather Dashboard is a React-based web application that provides users with real-time weather information and a 5-day weather forecast for any city. Utilizing the OpenWeatherMap API, this project offers a dynamic and interactive user experience with features such as unit conversion and visual weather representations.
 
+👉 Live Demo: <a href='https://task3-weather-dashboard.netlify.app/'>Weather Dashboard</a>
+
 ## Features
 
 - **City Search:** Enter a city name to get current weather details and a 5-day forecast.
