@@ -64,5 +64,11 @@ The Weather Dashboard is a React-based web application that provides users with 
 - [FontAwesome](https://fontawesome.com/) for weather icons.
 - React community for the inspiration and tools.
 
+## Contact
+For any questions or feedback, please reach out to nishantsinha96089@gmail.com
+
+```sh
+This `README.md` file should provide a comprehensive overview and guidance for your project. Make sure to update the placeholders with your actual repository URL, contact information, and any other specific details relevant to your project.
+
 
       
